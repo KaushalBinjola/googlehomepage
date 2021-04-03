@@ -164,5 +164,22 @@ hr{
         width:250px;
         margin-left: 0%;
     }
+    .lang{
+        margin-left: -20%;
+        /* margin-top: -2%; */
+        width: 50vw;
+    }
+    #footer{
+        height: 100%;
+        margin-top: 10%;
+    }
+    #final{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #india{
+        text-align: center;
+    }
 }
 
